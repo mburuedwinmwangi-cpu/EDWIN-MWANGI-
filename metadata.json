@@ -1,0 +1,5 @@
+{
+  "name": "Food Analyzer Quiz",
+  "description": "A quiz to find hidden sugar, calories, and fat in everyday meals. Get personalized insights and discover a tool to scan your food.",
+  "requestFramePermissions": []
+}
